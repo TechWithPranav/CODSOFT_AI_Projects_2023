@@ -17,6 +17,8 @@ Unlock personalized suggestions with this Recommendation System! Whether it's mo
 Dive into the realm of computer vision with Face Detection and Recognition! This project uses advanced techniques to identify and recognize faces in images. Clone, explore, and witness the power of facial recognition technology! 📸👀
 
 
-=========================================================================== Just watch the video for detailed execution ====================================================================================
 
-                                                                              https://www.youtube.com/watch?v=Vr6SGtFGptY
+
+============ Just watch the video for detailed execution ============
+
+         https://www.youtube.com/watch?v=Vr6SGtFGptY
